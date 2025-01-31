@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://github.com/Saurabh07703/Saurabh07703/blob/main/sql_logo.png" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Saurabh07703/Saurabh07703/blob/main/pandas_logo1.jpg" alt="pandas" width="40" height="40"/>
