@@ -39,19 +39,19 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://github.com/Saurabh07703/Saurabh07703/blob/main/ai_logo.jpg" alt="Artificial Intelligence" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://github.com/Saurabh07703/Saurabh07703/blob/main/ml_logo.png" alt="Machine Learning" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://github.com/Saurabh07703/Saurabh07703/blob/main/python_logo.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://github.com/Saurabh07703/Saurabh07703/blob/main/data_science_logo.jpg" alt="Data Science" width="40" height="40"/>
   </a>
 </p>
 
