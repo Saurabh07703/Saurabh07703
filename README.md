@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Saurabh07703/Saurabh07703/blob/main/pandas_logo.jpg" alt="pandas" width="40" height="40"/>
+    <img src="https://github.com/Saurabh07703/Saurabh07703/blob/main/pandas_logo1.jpg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/Saurabh07703/Saurabh07703/blob/main/ai_logo.jpg" alt="Artificial Intelligence" width="40" height="40"/>
