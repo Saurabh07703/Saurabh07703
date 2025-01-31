@@ -17,11 +17,18 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh07703&label=Profile%20views&color=0e75b6&style=flat" alt="Saurabh Tiwari" /> </p>
 
-- 🌱 **“Proficient in Data Science, Machine Learning, NLP, CNN, RNN, Python, SQL, Visualization (Power BI), Excel, Statistical Analysis.” etc.**
+- 🌱 **Proficient in Data Science, Machine Learning, NLP, CNN, RNN, Python, SQL, Visualization (Power BI), Excel, Statistical Analysis, etc.**
+
+- 👯 I’m looking to collaborate on **open-source AI projects.**
+
+- 🤔 I’m looking for help with **large-scale data processing.**
+
+- 💬 Ask me about **Python, Machine Learning, and Data Science.**
 
 - 📫 How to reach me **saurabhtiwari07703@gmail.com**
 
-- ⚡ Fun fact **I'm an Ethian**
+- ⚡ Fun fact **I love solving coding challenges in my free time!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
