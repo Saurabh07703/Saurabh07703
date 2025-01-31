@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Saurabh Tiwari</h1>
 <h3 align="center">Data Scientist @ Vinayak Jewels (India) Pvt Ltd</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Saurabh07703/Saurabh07703/blob/main/ST_3.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh07703&label=Profile%20views&color=0e75b6&style=flat" alt="Saurabh Tiwari" /> </p>
 
