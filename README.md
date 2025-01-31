@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh07703&label=Profile%20views&color=0e75b6&style=flat" alt="Saurabh Tiwari" /> </p>
 
-- 🌱 **“Proficient in Data Science, Machine Learning, NLP, CNN, RNN, Python, SQL, Visualization (Power BI),Excel, Statistical nalysis.” etc.**
+- 🌱 **“Proficient in Data Science, Machine Learning, NLP, CNN, RNN, Python, SQL, Visualization (Power BI), Excel, Statistical Analysis.” etc.**
 
 - 📫 How to reach me **saurabhtiwari07703@gmail.com**
 
-- ⚡ Fun fact **I am Ethian**
+- ⚡ Fun fact **I'm an Ethian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
